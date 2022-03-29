@@ -2,5 +2,5 @@
 layout : slide
 title : "welcome ti the secound slide!"
 ---
-your text 
+your name
 use the left arrow to get 
