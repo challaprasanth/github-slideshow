@@ -1,5 +1,5 @@
 ---
-layout : slide;
+layout : slide
 title : "welcome ti the secound slide!"
 ---
 your text 
